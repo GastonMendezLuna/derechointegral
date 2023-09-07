@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    background-color: darkslategray;
+      }
+    
+img{
+display: flex;
+height: 70vh;
+width: 70vw;
+opacity: 0.40;
+align-items: center;
+justify-content: center;
+}
